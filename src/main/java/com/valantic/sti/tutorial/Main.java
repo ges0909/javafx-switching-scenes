@@ -24,7 +24,7 @@ public class Main extends Application {
     }
 
     @Override
-    public void start(final Stage stage) throws IOException {
+    public void start(final Stage stage) {
         window = stage;
         window.setTitle("Switching Scenes");
 
